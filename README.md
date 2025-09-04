@@ -19,4 +19,44 @@ I added .jpg of some cat paws to the home page.  I had to add the .jpg to the as
 
 ### GMO
 
+Created a new branch called "components" and will create others for "pages" and what ever is needed.
+
+Watching video from week 20 day 1 Tiffany - React Router Review.  This talks about bootstrap router.
+
+In main.jsx changed "strict mode" to "broswerRouter" after importing: 
+```python
+import {browserRouter as Router} from 'react-router-dom'
+```
+This wraps "APP" in browserRouter.  There should not be other changes to main.jsx at this point.
+
+Breaks when changed to browserRounter but now make changes to app.jsx
+
+Created a file called NavBar in components and will call on it in app.jsx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
